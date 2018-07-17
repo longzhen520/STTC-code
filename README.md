@@ -15,4 +15,4 @@ addpath('tensorlab');
 
 ------------------------------------------------------
 
- We also provide a PPT for quickly understanding our algorithm.
+ We also provide an introduction for quickly understanding our algorithm (Image Completion Using Low Tensor Tree Rank and Total Variation Minimization.pdf).
