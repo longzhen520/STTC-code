@@ -10,6 +10,8 @@ demo_test.m for color image completion
 For setting up, we can add path by the following sentence.
 
 addpath('mylib');
+addpath('htucker_1.2');
+addpath('tensorlab');
 
 ------------------------------------------------------
 
